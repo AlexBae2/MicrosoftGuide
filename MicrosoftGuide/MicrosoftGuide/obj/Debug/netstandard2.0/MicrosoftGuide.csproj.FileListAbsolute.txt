@@ -1,0 +1,15 @@
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\bin\Debug\netstandard2.0\MicrosoftGuide.deps.json
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\bin\Debug\netstandard2.0\MicrosoftGuide.dll
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\bin\Debug\netstandard2.0\ref\MicrosoftGuide.dll
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\bin\Debug\netstandard2.0\MicrosoftGuide.pdb
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.AssemblyInfoInputs.cache
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.AssemblyInfo.cs
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.csproj.CoreCompileInputs.cache
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.dll
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\ref\MicrosoftGuide.dll
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.pdb
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.csprojAssemblyReference.cache
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\Page1.xaml.g.cs
