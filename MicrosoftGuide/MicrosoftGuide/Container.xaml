@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MicrosoftGuide.Container">
+    <ContentPage.Content>
+    <RelativeLayout>
+        <Label x:Name="lbl" Text="RelativeLayout"
+             RelativeLayout.XConstraint = "{ConstraintExpression Type=RelativeToParent,
+             Property=Width, Factor=0.5, Constant=-50}"
+              RelativeLayout.YConstraint = "{ConstraintExpression Type=RelativeToParent, 
+              Property=Height, Factor=0.5, Constant=-150}"
+        />
+        <BoxView Color="Blue"
+             RelativeLayout.XConstraint = "{ConstraintExpression Type=RelativeToView, ElementName=lbl,
+             Property=X, Factor=1, Constant=-30}"
+              RelativeLayout.YConstraint = "{ConstraintExpression Type=RelativeToView, ElementName=lbl, 
+              Property=Y, Factor=1, Constant=30}"
+            RelativeLayout.WidthConstraint = "150" RelativeLayout.HeightConstraint = "100"/>
+    </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

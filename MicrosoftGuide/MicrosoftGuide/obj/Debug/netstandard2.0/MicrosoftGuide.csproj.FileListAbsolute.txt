@@ -12,4 +12,5 @@ C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Deb
 C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\ref\MicrosoftGuide.dll
 C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.pdb
 C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\MicrosoftGuide.csprojAssemblyReference.cache
-C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\Container.xaml.g.cs
+C:\Users\pirtx\source\repos\MicrosoftGuide\MicrosoftGuide\MicrosoftGuide\obj\Debug\netstandard2.0\Controls.xaml.g.cs
